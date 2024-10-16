@@ -20,5 +20,6 @@
 <body>
     <h1>Bienvenu dans notre site web</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet nihil molestiae quia itaque, laboriosam in minus sequi dicta. Adipisci voluptatum ea sequi deserunt in minima officia quisquam harum ullam culpa.</p>
+    <p>Aujord'hui C'est le <?php echo date("d-m-Y") ?></p>
 </body>
 </html>
